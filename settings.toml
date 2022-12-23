@@ -1,0 +1,6 @@
+[default]
+MESSAGE = 'default settings'
+
+
+[development]
+MESSAGE = 'development settings'
